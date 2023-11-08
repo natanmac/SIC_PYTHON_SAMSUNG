@@ -1,0 +1,9 @@
+03/09
+
+Encontrar menor caminho para voltar para o ponto preto, saindo do ponto preto. Ver quais caminhos possiveis e ver qual o melhor caminho
+
+
+
+https://colab.research.google.com/drive/1gYqfQMn5-DRvxemsVmR9dlzovhCAk3OG?usp=sharing
+
+

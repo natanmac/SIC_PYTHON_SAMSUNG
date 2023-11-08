@@ -1,0 +1,21 @@
+Função random
+
+CPFL atende varios clientes, colocar contas de energia elétrica em kwh em ordem crescente, ver o consumo da metade mais baixa. Quantas pessoas consomem metade desse máximo (se for mil kwh, quantos ficam abaixo de 500). Gerar 10000 numeros, range de 1 a 10000.
+Usar dois metodos vistos em aula em ordem crescente.
+Usar mais dois metodos para colocar em forma decrescente.
+Usar função random para gerar um número alto de dados e ordenar, usar metodos da aula 7. Marcar tempo de processamento via função.
+Analisar diferença de tempo.
+
+Exemplo de exércicios: 
+
+(random.sample(range(10000), k=10000))
+random.seed(5)
+numeros = random.getstate()
+dados=(random.sample(range(10000), k=10000))
+print(dados)
+
+#################
+random.seed(5)
+numeros = random.getstate()
+dados=(random.sample(range(10000), k=10000))
+print(dados)

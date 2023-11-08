@@ -1,0 +1,5 @@
+Atividade adicional:
+
+Sem consultar internet. Somar frações. Tirar MMC. Receber dois números e seu programa irá calcular o MMC.
+
+OBS: atentar a ordem de fatores e tempo de execução do código. 

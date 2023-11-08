@@ -1,0 +1,3 @@
+Atividade extra: Definir dois pontos  de x até y, e realizar um programa semelhante a o jogo batalha naval. Dicas: saber a velocidade em que sai a bala e o ângulo no qual a bala foi disparada. Pode usar a equação do lançamento oblíquo para realizar o disparo. Como o usuário não sabe onde o alvo estará, declare um if com a variação do local onde o alvo está.  Pode colocar uma dinâmica de pontuação do disparo do outro objeto.
+
+Resumo: Uma batalha naval para dois jogadores
